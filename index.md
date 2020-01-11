@@ -13,7 +13,7 @@ We divided the projects in two side:
 
 ### Back-End Side
 
-We start creating a class Mail. 
+Our first step was to create a class Mail. 
 Mail Class have ProtId prop as primary key and a Type prop as Enum in order to have different type of Mail
 
 ```
@@ -35,6 +35,20 @@ public class Mail
         Entrata = 1,
         Uscita = 2,
         Interna = 3
+    }
+```
+
+Then we proceeded to create our Database Context:
+
+```
+public class ProgettoFinaleContext : DbContext
+    {
+        public DbSet<Mail> Mails { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=pippo;Trusted_Connection=True;MultipleActiveResultSets=true");
+        }
+        
     }
 ```
 
