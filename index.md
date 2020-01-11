@@ -2,9 +2,11 @@
 
 In this page you cand find some info about our work-group latest project!
 
-### Markdown
+### Protocol Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our task is to build a Back-End and Front-End side of a programming project. 
+Our web application will have to manage and show a company's protocols. 
+
 
 ```markdown
 Syntax highlighted code block
@@ -29,6 +31,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreabocchimpani/andreabocchimpani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+```markdown
+Ciao
+```
 
 ### Support or Contact
 
