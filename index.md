@@ -13,7 +13,8 @@ We divided the projects in two side:
 
 ### Back-End Side
 
-We start creating a class Mail
+We start creating a class Mail. 
+Mail Class have ProtId prop as primary key and a Type prop as Enum in order to have different type of Mail
 
 ```
 public class Mail
@@ -28,17 +29,15 @@ public class Mail
         public string Object { get; set; }
         public string Attachment { get; set; }
     }
-```
 
-Our class Mail have ProtId prop as primary key and we create an Enum called Type in order to have different type of Mail
-
-```
-public enum Tipo{
+ public enum Tipo
+    {
         Entrata = 1,
         Uscita = 2,
         Interna = 3
     }
 ```
+
 
 
 
