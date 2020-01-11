@@ -4,8 +4,42 @@ In this page you cand find some info about our work-group latest project!
 
 ### Protocol Project
 
-Our task is to build a Back-End and Front-End side of a programming project. 
-Our web application will have to manage and show a company's protocols. 
+Our task is to build a web application that will have to manage and show a company's protocols. 
+
+We divided the projects in two side:
+- Back-End
+- Front-End
+
+
+### Back-End Side
+
+We start creating a class Mail
+
+```
+public class Mail
+    {
+        [Key]
+        public string ProtId { get; set; }
+        public string StartDate { get; set; }
+        public string ReceiveDate { get; set; }
+        public Tipo Type { get; set; }
+        public string Sender { get; set; }
+        public string Subject { get; set; }
+        public string Object { get; set; }
+        public string Attachment { get; set; }
+    }
+```
+
+Our class Mail have ProtId prop as primary key and we create an Enum called Type in order to have different type of Mail
+
+```
+public enum Tipo{
+        Entrata = 1,
+        Uscita = 2,
+        Interna = 3
+    }
+```
+
 
 
 ```markdown
@@ -32,9 +66,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andreabocchimpani/andreabocchimpani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-```
-Ciao
-```
 
 ### Support or Contact
 
