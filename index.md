@@ -12,6 +12,7 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 <br>
 <br>
 <br>
+[Andrea Bocchimpani CV](CV.md)
 
 
 ### My Contact
