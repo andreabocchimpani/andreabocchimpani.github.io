@@ -15,6 +15,7 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 </h2>
 <br>
 <br>
+[Curriculum Vitae](CV.md)
 
 ### My Contact
 
