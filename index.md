@@ -14,10 +14,9 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 
 
 <a href="https://github.com/andreabocchimpani">
-  <h2>
+  <h2 align = 'center'>
     Andrea Bocchimpani CV
   </h2>
-</a>
 
 
 
@@ -34,11 +33,11 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 <br>
 <br>
 
-<h1>
+<h2 align 'center'>
   <a href="https://github.com/andreabocchimpani">
     Andrea Bocchimpani CV
   </a>
-</h1>
+</h2>
 
 ### My Contact
 
