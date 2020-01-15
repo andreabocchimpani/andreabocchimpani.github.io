@@ -5,55 +5,14 @@ Mi chiamo Andrea e sono un programmatore di 26 anni. Tutto è iniziato quando fi
 Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggiornare le mie competenze nel campo. 
 </div>
 
-### Protocol Project
+### Contact
 
-Our task is to build a web application that will have to manage and show a company's protocols. 
-
-We divided the projects in two side:
-- Back-End
-- Front-End
+email: andreabocchimpani@gmail.com
+linkedin: https://www.linkedin.com/in/andrea-bocchimpani-28a868150/
 
 
-### Back-End Side
 
-Our first step was to create a class Mail. 
-Mail Class have ProtId prop as primary key and a Type prop as Enum in order to have different type of Mail
 
-```
-public class Mail
-    {
-        [Key]
-        public string ProtId { get; set; }
-        public string StartDate { get; set; }
-        public string ReceiveDate { get; set; }
-        public Tipo Type { get; set; }
-        public string Sender { get; set; }
-        public string Subject { get; set; }
-        public string Object { get; set; }
-        public string Attachment { get; set; }
-    }
-
- public enum Tipo
-    {
-        Entrata = 1,
-        Uscita = 2,
-        Interna = 3
-    }
-```
-
-Then we proceeded to create our Database Context:
-
-```
-public class ProgettoFinaleContext : DbContext
-    {
-        public DbSet<Mail> Mails { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=pippo;Trusted_Connection=True;MultipleActiveResultSets=true");
-        }
-        
-    }
-```
 
 
 
