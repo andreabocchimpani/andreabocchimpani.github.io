@@ -10,14 +10,29 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 <h2 align = 'center' href = "CV.md"> Andrea Bocchimpani CV </h2>
 <br>
 <br>
-[Andrea Bocchimpani CV](CV.md)
 
-<a href= "https://github.com/andreabocchimpani">
+
+
+<a href="https://github.com/andreabocchimpani">
   <h2>
     Andrea Bocchimpani CV
   </h2>
 </a>
 
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h1>
   <a href="https://github.com/andreabocchimpani">
