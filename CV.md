@@ -2,7 +2,7 @@
 
 
 
-#### ISTRUZIONE E FORMAZIONE
+### ISTRUZIONE E FORMAZIONE
 
 > #### **Perito commerciale ragioniere e programmatore informatico**
 > <ul>Data conseguimento: 2012</ul>
@@ -18,8 +18,10 @@
 > <ul>Data conseguimento: 2020</ul>
 > <ul>Luogo: Axia Formazione – Via XX Seettembre 41 – Genova</ul>
 
+<br>
+<br>
 
-#### ESPERIENZA LAVORATIVA
+### ESPERIENZA LAVORATIVA
 
 > #### **Stage**
 > <ul>Data inizio 09/09/2019- fine: 15/10/2019</ul>
