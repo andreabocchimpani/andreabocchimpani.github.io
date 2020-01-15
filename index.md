@@ -5,6 +5,15 @@ Mi chiamo Andrea e sono un programmatore di 26 anni. Tutto è iniziato quando fi
 Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggiornare le mie competenze nel campo. 
 </div>
 
+<br>
+<br>
+<br>
+<h2 align = 'center'> Andrea Bocchimpani CV </h2>
+<br>
+<br>
+<br>
+
+
 ### My Contact
 
 email: **andreabocchimpani@gmail.com**
