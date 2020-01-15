@@ -9,9 +9,7 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 <br>
 <br>
 <h2 align = 'center'>
-  <a href="CV.md">
-    Andrea Bocchimpani CV
-  </a>
+  <a href = "CV.md">Andrea Bocchimpani</a>
 </h2>
 <br>
 <br>
