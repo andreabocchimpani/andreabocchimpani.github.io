@@ -12,6 +12,10 @@ email: **andreabocchimpani@gmail.com**
 [Linkedin](https://www.linkedin.com/in/andrea-bocchimpani-28a868150/)
 
 
+> [GitHub](https://github.com/StefanoBrai)
+>
+> [Linkedin](https://www.linkedin.com/in/andrea-bocchimpani-28a868150/)
+
 
 
 
