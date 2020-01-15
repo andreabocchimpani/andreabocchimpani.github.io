@@ -7,9 +7,7 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 
 <br>
 <br>
-<br>
-<h2 align = 'center'> Andrea Bocchimpani CV </h2>
-<br>
+<h2 align = 'center' href = "CV.md"> Andrea Bocchimpani CV </h2>
 <br>
 <br>
 [Andrea Bocchimpani CV](CV.md)
