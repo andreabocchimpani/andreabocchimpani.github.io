@@ -7,11 +7,9 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 
 ### Contact
 
-email: andreabocchimpani@gmail.com
+email: **andreabocchimpani@gmail.com**
 <br>
-linkedin: https://www.linkedin.com/in/andrea-bocchimpani-28a868150/
-
-
+[Linkedin](https://www.linkedin.com/in/andrea-bocchimpani-28a868150/)
 
 
 
