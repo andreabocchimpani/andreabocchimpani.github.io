@@ -5,18 +5,16 @@ Mi chiamo Andrea e sono un programmatore di 26 anni. Tutto è iniziato quando fi
 Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggiornare le mie competenze nel campo. 
 </div>
 
-<br>
-<br>
-<h2 align = 'center' href = "CV.md"> Andrea Bocchimpani CV </h2>
-<br>
-<br>
 
-
+<br>
+<br>
 <h2 align = 'center'>
   <a href="https://github.com/andreabocchimpani">
     Andrea Bocchimpani CV
   </a>
 </h2>
+<br>
+<br>
 
 ### My Contact
 
