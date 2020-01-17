@@ -8,9 +8,8 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 
 <br>
 <br>
-<h2 align = 'center'>
-  [Andrea Bocchimpani CV](CV.md)
-</h2>
+##  [Andrea Bocchimpani CV](CV.md)
+
 <br>
 <br>
 [Curriculum Vitae](CV.md)
