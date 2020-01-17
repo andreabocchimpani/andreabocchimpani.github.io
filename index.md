@@ -8,7 +8,7 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 
 <br>
 <br>
-##  [Andrea Bocchimpani CV](CV.md)
+##  ->[Andrea Bocchimpani CV](CV.md)<-
 
 <br>
 <br>
