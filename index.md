@@ -8,8 +8,11 @@ Recentemente ho partecipato a due corsi che mi hanno permesso di ampliare e aggi
 
 <br>
 <br>
-<center> ##  [Andrea Bocchimpani CV](CV.md) </center>
-
+<h2>
+  <a href="CV.md">
+    Andrea Bocchimpani CV
+  </a>
+</h2>
 <br>
 <br>
 [Curriculum Vitae](CV.md)
